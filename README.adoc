@@ -2,3 +2,59 @@
 
 Open Models for Cooperative Intelligent Transport Systems (C-ITS)
 
+WARNING: MUST Clarrify things like: patente, license 
+
+== About 
+
+Document in UML/SysML with open source tools (e.g; Eclipse Papyrus) concepts (e.g; protocols, ...) related to ITS.
+
+
+== Acro and Abre
+
+* ITS - Intelligent Transport Systems
+* ETSI - European Telecommunications Standards Institute
+* IEC - International Electrotechnical Commission
+* IEEE - Institute of Electrical and Electronics Engineers 
+* ITU - International Telecommunication Union 
+
+== Common Data Types
+
+== Standards 
+
+* ETSI TC ITS - ETSI Technical Committee (TC) Intelligent Transport Systems (ITS)
+* IEEE 1609 - Suite of Standards for Wireless Access in Vehicular Environments (WAVE)
+* IEEE 802.11p - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 6: Wireless Access in Vehicular Environments" (PDF).
+
+
+== ETSI TC ITS
+
+This TC is compose by 5 Working group, more information at
+
+* TODO: Create Fact sheet for, because the numeration is not easy to understand
+
+
+== IEEE 1609
+
+.TOBE_CHANGE
+----
+IEEE 1609 define a suite of protocols. 
+----
+
+From upper layer to the lower layer:
+
+* IEEE 1609.1 - Application (Resource)
+* IEEE 1609.2 - Application (Security)
+* IEEE 1609.3 - Network and transport (IPv6, UDP/TCP)
+* IEEE 1609.2 - LLC 
+* IEEE 1609.4 - WAVE Multichannel operation (MAC Extension)
+
+== IEEE 802.11p 
+
+* IEEE 802.11p MAC
+* IEEE 802.11p PHY
+
+== Reference 
+
+* https://itsstandards.eu/
+* https://www.etsi.org/committee/its
+* https://www.standards.its.dot.gov/Factsheets/Factsheet/80
